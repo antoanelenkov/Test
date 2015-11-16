@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-asdasdasasasddas
-=======
-dassd
->>>>>>> master
+dsasasdasas
