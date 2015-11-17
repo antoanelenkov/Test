@@ -1,0 +1,3 @@
+[submodule "New folder/submodule"]
+	path = New folder/submodule
+	url = https://github.com/antoanelenkov/submodule.git
